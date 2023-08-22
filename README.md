@@ -1,4 +1,3 @@
-![image_2023-08-22_090443636](https://github.com/arun1111j/Ex.No.-1.1---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/128461833/420440d2-8c43-4d1e-872d-00c74405116a)![Screenshot (15)](https://github.com/arun1111j/Ex.No.-1.1---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/128461833/9c35f8b0-79a3-4e73-a21e-9f07908f397d)# Ex.No.-1.1-Design and Draft the given 2D Sketches in modelling software.
 
 ## AIM
 
@@ -42,12 +41,7 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 ![image](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
 
 ## OUTPUT
-![Uploading image_2023-08-22_090550547.png…]()
-
-
-
-
-
+![image_2023-08-22_090443636](https://github.com/arun1111j/Ex.No.-1.1---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/128461833/420440d2-8c43-4d1e-872d-00c74405116a)![Screenshot (15)](https://github.com/arun1111j/Ex.No.-1.1---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/128461833/9c35f8b0-79a3-4e73-a21e-9f07908f397d)# Ex.No.-1.1-Design and Draft the given 2D Sketches in modelling software.
 
 ## RESULT
 Thus the given sketch is drawn and drafted using fusion 360 tool.
